@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Importância da Água</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #e0f7fa;
+    }
+    h1 {
+      color: #00796b;
+    }
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Importância da Água</h1>
+  <p>
+    A água é essencial para todas as formas de vida conhecidas. Ela compõe a maior parte do corpo humano e é fundamental para processos biológicos, como a digestão e a regulação da temperatura corporal.
+  </p>
+  <p>
+    Além disso, a água é crucial para a agricultura, a indústria e o consumo doméstico. Preservar os recursos hídricos é vital para garantir a sustentabilidade do planeta.
+  </p>
+  <footer>
+    &copy; 2025 - Página educativa sobre a importância da água.
+  </footer>
+</body>
+</html>
